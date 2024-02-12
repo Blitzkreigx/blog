@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.size {
+    width: 80%;
+    max-width: 500px;
+}
+
+.posteo {
+    width: 350px;
+    height: 550px;
+}
+
+.posteo-sm {
+    width: 350px;
+    height: 400px;
+}
+
+.posteo-image {
+    width: 100%;
+    height: 350px;
+}
+
+.posteo-image-sm {
+    width: 100%;
+    height: 200px;
+}
+
+.center {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.screen {
+    min-height: calc(100vh - 70px);
+}
+
+.header {
+    height: 70px;
+}
+
+.heigth {
+    max-height: 550px;
+}
