@@ -18,13 +18,13 @@ function BlogPost() {
                 <p className="center text-xl">Lee nuestros artículos más relevantes e importantes con los que podrás potenciar tus conocimientos en las materias más importantes de la vida.</p>
                 <div className="py-20 w-full flex flex-wrap justify-center items-start gap-x-10 gap-y-20">
                     <div className="flex flex-col gap-5">
-                        <Posteo imagen="/body.jpeg" titulo="ESCULPIENDO TU YO DESEABLE" fecha="1 Enero 2024" info="Para transformar tu vida, es esencial trabajar tanto en tu bienestar interno como externo. La clave radica en aprender genuinamente, evitando las charlatanerías. Un cambio auténtico requiere un compromiso serio con el crecimiento personal en todos los aspectos de tu ser." />
+                        <Posteo article="one-article" imagen="/body.jpeg" titulo="ESCULPIENDO TU YO DESEABLE" fecha="1 Enero 2024" info="Para transformar tu vida, es esencial trabajar tanto en tu bienestar interno como externo. La clave radica en aprender genuinamente, evitando las charlatanerías. Un cambio auténtico requiere un compromiso serio con el crecimiento personal en todos los aspectos de tu ser." />
                     </div>
                     <div className="flex flex-col gap-5">
-                        <PosteoSm imagen="/money.jpeg" titulo="EL ÉXITO ES DIFERENTE" fecha="1 Enero 2024" info="El éxito es la meta anhelada por cada individuo, pero va más allá de simplemente seguir un camino predefinido; implica forjar tu propio destino, sin importar cuáles sean tus deseos y aspiraciones." />
+                        <PosteoSm article="two-article" imagen="/money.jpeg" titulo="EL ÉXITO ES DIFERENTE" fecha="1 Enero 2024" info="El éxito es la meta anhelada por cada individuo, pero va más allá de simplemente seguir un camino predefinido; implica forjar tu propio destino, sin importar cuáles sean tus deseos y aspiraciones." />
                     </div>
                     <div className="flex flex-col gap-5">
-                        <Posteo imagen="/binance.png" titulo="FINANZAS ESTRATEGICAS" fecha="1 Enero 2024" info="En América Latina, las finanzas representan uno de los mayores desafíos. La solución a más del 50% de tus problemas radica en la mejora de tu situación financiera. Asegurar el control y la estabilidad en este aspecto puede marcar la diferencia significativa en tu calidad de vida y bienestar." />
+                        <Posteo article="three-article" imagen="/binance.png" titulo="FINANZAS ESTRATEGICAS" fecha="1 Enero 2024" info="En América Latina, las finanzas representan uno de los mayores desafíos. La solución a más del 50% de tus problemas radica en la mejora de tu situación financiera. Asegurar el control y la estabilidad en este aspecto puede marcar la diferencia significativa en tu calidad de vida y bienestar." />
                     </div>
                 </div>
             </section>

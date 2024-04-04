@@ -8,11 +8,11 @@ function Article(props) {
                     <h2 className="text-4xl text-center">{props.titulo}</h2>
                     <h3 className='text-center'>{props.fecha}</h3>
                     <div className='max-w-96 mx-auto my-5'>
-                        {props.imagen}
+                        {/* <img src={props.imagen} alt={props.titulo} className='mx-auto' /> */}
                     </div>
-                    <p>
-                        {props.info}
-                    </p>
+                    <div>
+                        {props.children}
+                    </div>
                 </div>
             </article>
         </>

@@ -6,15 +6,15 @@ function AcercaDe() {
                     <img src="/octa-removebg.png" alt="Fundador de Octagon" className="size rounded-sm" />
                 </div>
                 <div className="py-5 px-1 col-start-2 col-end-4">
-                    <h2 className="text-xl my-3">HOLA SOY CRlSTlAN, CREADOR Y FUNDADOR DE OCTAGON.</h2>
-                    <p>A lo largo de mi vida, he construido un camino enriquecedor, donde la programación, las tecnologías, las finanzas, los negocios y la comprensión del comportamiento humano han sido mis pilares fundamentales, es por ello que este blog solamente proporciona información aprobada por un experto.</p>
+                    <h2 className="text-xl my-3">HOLA! SOY CHRISSSTIAN, CREADOR Y FUNDADOR DE OCTAGON.</h2>
+                    <p>A lo largo de mi vida, he construido un camino enriquecedor, donde la programación, las tecnologías, las finanzas, los negocios y la comprensión del comportamiento humano han sido mis pilares fundamentales, es por eso que este blog esta lleno de conocimientos basado en experiencias reales.</p>
                     <p><strong>Mi Trayectoria</strong></p>
                     <ul className="list-disc list-inside ml-4">
                         <li>Programación y Tecnologías: Desde mis inicios, he explorado el fascinante mundo de la programación, perfeccionando mi habilidad para crear soluciones innovadoras y tecnológicamente avanzadas.</li>
                         <li>Finanzas y Negocios: Más allá de la tecnología, mi curiosidad me llevó al ámbito financiero y empresarial. He aplicado estrategias sólidas para lograr el éxito en proyectos empresariales.</li>
                         <li>Éxito y Desarrollo Personal: El éxito no solo radica en los proyectos, sino también en comprender el comportamiento humano. Esta perspectiva ha sido clave para construir relaciones sólidas y liderar equipos de manera efectiva.</li>
                     </ul>
-                    <p>Te invito a explorar más sobre mis proyectos y logros en mi <a href="#"><strong className="text-blue-600">Portafolio Web</strong></a> donde encontrarás un reflejo de mi pasión y dedicación en cada proyecto.</p>
+                    <p>Te invito a explorar más sobre mis proyectos y logros en mi <a href="https://portafolio-x.vercel.app/"><strong className="text-blue-600">Portafolio Web</strong></a> donde encontrarás un reflejo de mi pasión y dedicación en cada proyecto.</p>
                 </div>
             </section>
         </>

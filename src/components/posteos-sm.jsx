@@ -4,7 +4,7 @@ function PosteoSm(props) {
     return (
         <>
             <div className="text-start posteo-sm">
-                <Link to="post">
+                <Link to={props.article}>
                     <div className="overflow-hidden posteo-image-sm">
                         <img src={props.imagen} alt="alternative" className="w-full"/>
                     </div>

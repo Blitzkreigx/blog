@@ -4,7 +4,7 @@ function Posteo(props) {
     return (
         <>
             <div className="text-start posteo">
-                <Link to="post">
+                <Link to={props.article}>
                     <div className="overflow-hidden posteo-image">
                         <img src={props.imagen} alt="alternativa" className="w-full"/>
                     </div>
