@@ -15,7 +15,7 @@ function Header() {
 
     return (
         <>
-            <header className="text-center flex justify-between items-center py-3 px-7 sm:justify-between sm:w-full header box-border">
+            <header className="text-center flex justify-between items-center py-3 px-7 sm:justify-between sm:w-full h-[70px] box-border">
                 <div className="text-2xl">
                     <Link to="/" className='flex items-center gap-0'>
                         <img src="/octa-removebg.png" alt="Octago" className='max-h-14' />

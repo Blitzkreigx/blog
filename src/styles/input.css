@@ -4,7 +4,7 @@
 
 .size {
     width: 80%;
-    max-width: 500px;
+    max-width: 700px;
 }
 
 .posteo {
@@ -35,10 +35,6 @@
 
 .screen {
     min-height: calc(100vh - 70px);
-}
-
-.header {
-    height: 70px;
 }
 
 .heigth {
